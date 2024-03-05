@@ -1,0 +1,23 @@
+Project: Abstraction
+Project Template: Console App (.NET Framework)
+Description: Tackles sample on Abstraction like Abstract class and Interface class
+
+Project: ActionAndFunc
+Project Template: Console App (.NET Framework)
+Description: Tackles sample on Action and Functions
+
+Project: Calculator
+Project Template: Console App (.NET Framework)
+Description: Tackles exception handling like creating own exception derived from Exception class.
+
+Project: Calculator.Tests
+Project Template: Unit Test Project (.NET Framework)
+Description: Unit test project for Project 'Calculator'
+
+Project: Delegates
+Project Template: Console App (.NET Framework)
+Description: Tackles sample on Delegates
+
+Project: WPFandXAML
+Project Template: WPF App (.NET Framework)
+Description: Tackes sample on WPF and XAML with a simple calculator

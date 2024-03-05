@@ -1,0 +1,15 @@
+﻿<Application x:Class="WPFandXAML.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFandXAML"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="DefaultFont"
+               TargetType="{x:Type Window}">
+            <Setter Property="FontFamily"
+                    Value="Century Gothic" />
+            <Setter Property="FontSize"
+                    Value="12" />
+        </Style>
+    </Application.Resources>
+</Application>
