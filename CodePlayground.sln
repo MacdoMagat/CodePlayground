@@ -24,7 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSample", "En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSample", "InterfaceSample\InterfaceSample.csproj", "{9AD649AC-10D1-4F14-AB7C-F7E20719F588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldReturnSample", "YieldReturnSample\YieldReturnSample.csproj", "{3F4A7586-3CF9-4E49-A739-C2C064DBDA45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldReturn", "YieldReturnSample\YieldReturn.csproj", "{3F4A7586-3CF9-4E49-A739-C2C064DBDA45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
