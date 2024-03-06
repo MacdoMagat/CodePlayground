@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFandXAML", "WPFandXAML\WPFandXAML.csproj", "{80C0FF2B-4EC8-4AC6-BAF1-4BF5E4F70FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSample", "EntityFrameworkSample\EntityFrameworkSample.csproj", "{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{80C0FF2B-4EC8-4AC6-BAF1-4BF5E4F70FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80C0FF2B-4EC8-4AC6-BAF1-4BF5E4F70FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80C0FF2B-4EC8-4AC6-BAF1-4BF5E4F70FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
