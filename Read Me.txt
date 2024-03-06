@@ -6,6 +6,11 @@ Project: ActionAndFunc
 Project Template: Console App (.NET Framework)
 Description: Tackles sample on Action and Functions
 
+Project: AsyncProgramming
+Project Template: Windows Forms App (.NET Framework)
+Description: Tackles sample on async programming where clicking a button will start a long running process while interface is not hanged.
+             This also includes cancelling the long running process.
+
 Project: Calculator
 Project Template: Console App (.NET Framework)
 Description: Tackles exception handling like creating own exception derived from Exception class.

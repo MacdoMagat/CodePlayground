@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldReturn", "YieldReturnS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgramming", "ParallelProgramming\ParallelProgramming.csproj", "{77B1DB09-C880-415C-ABD3-EB59DDCFD513}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming\AsyncProgramming.csproj", "{74F268E5-4690-4C7F-A991-674E98455DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{77B1DB09-C880-415C-ABD3-EB59DDCFD513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B1DB09-C880-415C-ABD3-EB59DDCFD513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B1DB09-C880-415C-ABD3-EB59DDCFD513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F268E5-4690-4C7F-A991-674E98455DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F268E5-4690-4C7F-A991-674E98455DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F268E5-4690-4C7F-A991-674E98455DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F268E5-4690-4C7F-A991-674E98455DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
