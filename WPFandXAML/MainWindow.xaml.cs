@@ -68,7 +68,7 @@ namespace WPFandXAML
                         answer = firstNumber / secondNumber;
                         break;
                     default:
-                        MessageBox.Show("Operation not implemented", "Error execution the selected operation.");
+                        MessageBox.Show("Operation not implemented", "Error execution in the selected operation.");
                         return;
                 }
                 MessageBox.Show($"The answer is {answer}.", "Result!");
