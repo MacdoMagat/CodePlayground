@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFandXAML", "WPFandXAML\WP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSample", "EntityFrameworkSample\EntityFrameworkSample.csproj", "{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSample", "InterfaceSample\InterfaceSample.csproj", "{9AD649AC-10D1-4F14-AB7C-F7E20719F588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C27E789-4D90-48ED-A4CF-34C8C2AAF709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD649AC-10D1-4F14-AB7C-F7E20719F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD649AC-10D1-4F14-AB7C-F7E20719F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD649AC-10D1-4F14-AB7C-F7E20719F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD649AC-10D1-4F14-AB7C-F7E20719F588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
