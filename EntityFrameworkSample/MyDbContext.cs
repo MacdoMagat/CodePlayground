@@ -10,6 +10,8 @@ namespace EntityFrameworkSample
 {
     internal class MyDbContext : DbContext
     {
+        //Constructor so that I can pass the connection string to the base class
+        //Connection string is from the app.config
         public MyDbContext() : base("MyDbContext")
         {
             
