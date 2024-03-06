@@ -26,6 +26,10 @@ Project: InterfaceSample
 Project Template: Console App (.NET Framework)
 Description: Tackles sample interface
 
+Project: ParallelProgramming
+Project Template: Console App (.NET Framework)
+Description: Tackles parallel programming. Sample includes Task.Run, Parallel.Invoke and Parallel.ForEach
+
 Project: WPFandXAML
 Project Template: WPF App (.NET Framework)
 Description: Tackes sample on WPF and XAML with a simple calculator
